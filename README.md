@@ -11,4 +11,5 @@ In the recent version of the game, a "fish shop" was added. Now, you can choose 
 Shark Evasion uses an event listener for mouse movement, and maps the fish to the coordinates of your mouse. Using intervals and timeouts, the sharks swim by at random time intervals. Phases 3 and 4, determined by a timeout, increase the quantity of sharks coming in at a given time.
 
 ### Demo
+Note: gif is choppy but game is not.
 <img src="http://recordit.co/zqAbhDP0b0.gif">
